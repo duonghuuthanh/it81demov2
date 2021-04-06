@@ -1,7 +1,7 @@
 com\dht\pojo\Category.class
 com\dht\saleapp\App.class
+com\dht\service\CategoryService.class
+com\dht\saleapp\PrimaryController.class
 com\dht\saleapp\SecondaryController.class
 module-info.class
-com\dht\service\CategoryService.class
 com\dht\service\JdbcUitls.class
-com\dht\saleapp\PrimaryController.class
